@@ -8,5 +8,6 @@ export class User {
     profession! : string ;
     accountCategory! : String; 
     picture! : String ;
+
 }
 
